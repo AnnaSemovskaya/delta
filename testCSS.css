@@ -1,0 +1,20 @@
+ button {
+    height: 50px;
+    width: 100px;
+    color: red;
+}
+
+.BButtons {
+    color: blue;
+
+}
+
+#B_Green {
+    color: green;
+}
+
+#myCanvas {
+    height: 400 px;
+    width: 400 px;
+    background-color: aqua;
+}
